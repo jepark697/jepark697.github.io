@@ -218,7 +218,7 @@ INTRO
 */
 @media (min-width: 1200px) {
   .text-intro h1 {
-    font-size: 80px;
+    font-size: 85px;
   }
 }
 /*
@@ -1454,3 +1454,42 @@ p.social.social--outline a.link {
   color: #871AFF;
   border-color: #871AFF;
 }
+
+img.twenty_resize {
+  max-width:20%;
+  max-height:20%;
+}
+img.twenty_five_resize {
+  max-width:25%;
+  max-height:25%;
+}
+
+img.resize {
+  max-width:30%;
+  max-height:30%;
+}
+img.forty_resize {
+  max-width:40%;
+  max-height:40%;
+}
+
+
+img.fifty_resize {
+  max-width:50%;
+  max-height:50%;
+}
+img.sixty_resize {
+  max-width:60%;
+  max-height:60%;
+}
+img.sixty_five_resize {
+  max-width:60%;
+  max-height:60%;
+}
+
+img.seventy_resize {
+  max-width:70%;
+  max-height:70%;
+}
+
+
